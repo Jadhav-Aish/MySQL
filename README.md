@@ -34,7 +34,7 @@ Aim of this project to analyze Coffee shop sales with help of SQL & Power BI.
  23) JOINS
  24) SUBQUERIES
 
-## Schema - 
+## Schema - Coffee Shop Sales Database
 ![Screenshot 2024-07-20 164915](https://github.com/user-attachments/assets/6f61e275-05d2-450d-808d-72d80d1fbfa9)
 
      
