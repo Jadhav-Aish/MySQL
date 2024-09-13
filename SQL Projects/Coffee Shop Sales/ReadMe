@@ -1,1 +1,39 @@
+## My SQL + Power BI Project Coffee shop sales.
+Aim of this project to analyze Coffee shop sales with help of SQL & Power BI.
 
+## Steps for My SQL:-
+Data Walkthrough.
+Raw data file preparation.
+Creating Database.
+Importing file.
+Cleaning imported file.
+Firing SQL queries for business requirements.
+
+## Functionalities i will use in this project:-
+STR_TO_DATE
+ROUND
+SUM
+COUNT
+AVG
+LAG
+MONTH
+DAY
+DAYOFWEEK
+SELECT
+ALIAS
+MAX/MIN
+HOUR
+ALTER TABLE
+UPDATE TABLE
+CHANGE COLUMN
+WHERE
+GROUP BY
+CASE
+ORDER BY
+LIMIT
+WINDOW FUNCTIONS
+JOINS
+SUBQUERIES
+
+## Schema - Coffee Shop Sales Database
+!
